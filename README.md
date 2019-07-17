@@ -1,3 +1,17 @@
+# flat2
+
+This is a fork of mingp's [minimal-clojure-project](https://github.com/mingp/minimal-clojure-project) lein template.
+
+Usage: `lein new main {project name}`
+
+Changes:
+- README.markdown renamed to README.md
+- `org.clojure/clojure` dependency updated from 1.7.0 to 1.10.1
+
+Original README follows:
+
+----
+
 # minimal-clojure-project
 
 Leiningen template for a very minimal Clojure application.
