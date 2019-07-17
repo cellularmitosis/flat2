@@ -1,4 +1,4 @@
-(defproject main/lein-template "0.1.0"
+(defproject main/lein-template "0.1.1"
   :description "Leiningen template for minimal Clojure project."
   :eval-in-leiningen true
   :deploy-repositories [["releases"  {:sign-releases false :url "https://clojars.org/repo"}]
