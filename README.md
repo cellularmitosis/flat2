@@ -1,4 +1,4 @@
-# flat2
+# main
 
 This is a fork of mingp's [minimal-clojure-project](https://github.com/mingp/minimal-clojure-project) lein template.
 
